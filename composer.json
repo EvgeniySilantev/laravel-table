@@ -25,6 +25,13 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/EvgeniySilantev/laravel-table.git"
+        }
+    ],
+
     "require": {
         "php": "^7.1",
         "ext-pdo": "*",

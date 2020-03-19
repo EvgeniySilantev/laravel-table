@@ -105,7 +105,7 @@ In your view, simply render your table like this :
 - Install the package with composer :
 
 ```bash
-composer require "okipa/laravel-table:^1.0"
+composer require "evgeniy-silantev/laravel-table:^1.0"
 ```
 
 ## Configuration
