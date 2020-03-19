@@ -1,5 +1,5 @@
 {
-    "name": "okipa/laravel-table",
+    "name": "EvgeniySilantev/laravel-table",
     "description": "Generate tables with Laravel.",
     "type": "library",
     "keywords": [
@@ -16,12 +16,12 @@
         "generation",
         "html"
     ],
-    "homepage": "https://github.com/Okipa/laravel-table",
+    "homepage": "https://github.com/EvgeniySilantev/laravel-table",
     "license": "MIT",
     "authors": [
         {
-            "name": "Arthur LORENT",
-            "email": "arthur.lorent@gmail.com",
+            "name": "Evgeniy Silantev",
+            "email": "silantev-zhenya@mail.ru",
             "role": "Developer"
         }
     ],
